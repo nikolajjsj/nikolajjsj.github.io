@@ -1,31 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.014b898d.chunk.css",
-    "main.js": "/static/js/main.94cd0837.chunk.js",
-    "main.js.map": "/static/js/main.94cd0837.chunk.js.map",
+    "main.css": "/static/css/main.d7507df6.chunk.css",
+    "main.js": "/static/js/main.c44bb2b9.chunk.js",
+    "main.js.map": "/static/js/main.c44bb2b9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.08c34698.chunk.js": "/static/js/2.08c34698.chunk.js",
-    "static/js/2.08c34698.chunk.js.map": "/static/js/2.08c34698.chunk.js.map",
+    "static/js/2.bebb4a47.chunk.js": "/static/js/2.bebb4a47.chunk.js",
+    "static/js/2.bebb4a47.chunk.js.map": "/static/js/2.bebb4a47.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.86d02b2187af36d76b1eab5b4a548ddc.js": "/precache-manifest.86d02b2187af36d76b1eab5b4a548ddc.js",
+    "precache-manifest.dac1aa155da5a06dfa8cbbf6b3f515e3.js": "/precache-manifest.dac1aa155da5a06dfa8cbbf6b3f515e3.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.014b898d.chunk.css.map": "/static/css/main.014b898d.chunk.css.map",
-    "static/js/2.08c34698.chunk.js.LICENSE.txt": "/static/js/2.08c34698.chunk.js.LICENSE.txt",
+    "static/css/main.d7507df6.chunk.css.map": "/static/css/main.d7507df6.chunk.css.map",
+    "static/js/2.bebb4a47.chunk.js.LICENSE.txt": "/static/js/2.bebb4a47.chunk.js.LICENSE.txt",
     "static/media/bachelor.png": "/static/media/bachelor.f63ace7b.png",
     "static/media/headshot.jpg": "/static/media/headshot.f25201ec.jpg",
+    "static/media/osprey.png": "/static/media/osprey.6e7b947c.png",
     "static/media/pathfinder.png": "/static/media/pathfinder.163a83b7.png",
-    "static/media/pexels0.png": "/static/media/pexels0.f2e48167.png",
-    "static/media/physiology0.png": "/static/media/physiology0.b2fbe265.png",
-    "static/media/reddit0.png": "/static/media/reddit0.09c297e4.png",
+    "static/media/pexels.png": "/static/media/pexels.4ca61f96.png",
+    "static/media/physiology.png": "/static/media/physiology.da5be7e5.png",
+    "static/media/reddit.png": "/static/media/reddit.5f5d33d5.png",
     "static/media/sorting.png": "/static/media/sorting.1e57015b.png",
-    "static/media/sygeplej0.png": "/static/media/sygeplej0.25582e88.png",
-    "static/media/tictactoe.png": "/static/media/tictactoe.4c130adf.png"
+    "static/media/sygepleje.png": "/static/media/sygepleje.11866356.png",
+    "static/media/tictactoe.png": "/static/media/tictactoe.4c130adf.png",
+    "static/media/walls.png": "/static/media/walls.8028871b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.08c34698.chunk.js",
-    "static/css/main.014b898d.chunk.css",
-    "static/js/main.94cd0837.chunk.js"
+    "static/js/2.bebb4a47.chunk.js",
+    "static/css/main.d7507df6.chunk.css",
+    "static/js/main.c44bb2b9.chunk.js"
   ]
 }
